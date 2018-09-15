@@ -1,4 +1,4 @@
-/* Comentarios */
+/* Tabla Calendario en BI */
 SELECT TOP (1000) [Fecha]
       ,[Inicio_Mes]
       ,[Fin_Mes]
